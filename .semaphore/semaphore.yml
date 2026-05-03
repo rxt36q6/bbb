@@ -6,9 +6,6 @@ agent:
     os_image: ubuntu2404 
 execution_time_limit: 
   hours: 24 
-fail_fast: 
-  stop: 
-    when: 'false' 
 blocks: 
   - name: 'Block #1' 
     task: 
